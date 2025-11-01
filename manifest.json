@@ -33,7 +33,8 @@
         "https://*.tribalwars.co.uk/*screen=market*mode=exchange*",
         "https://*.tribalwars.net/*screen=market*mode=exchange*",
         "https://*.die-staemme.de/*screen=market*mode=exchange*",
-        "https://*.tribalwars.com.pt/*screen=market*mode=exchange*"],
+        "https://*.tribalwars.com.pt/*screen=market*mode=exchange*",
+		"https://*.klanlar.org/*screen=market*mode=exchange*"],
       "js": ["content_script.js"]
     },
     {
